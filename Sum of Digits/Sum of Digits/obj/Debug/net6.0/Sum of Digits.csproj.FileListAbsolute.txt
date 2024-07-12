@@ -1,0 +1,14 @@
+C:\Users\Ajay.Pandena\Desktop\GitHub\Sum of Digits\Sum of Digits\bin\Debug\net6.0\Sum of Digits.exe
+C:\Users\Ajay.Pandena\Desktop\GitHub\Sum of Digits\Sum of Digits\bin\Debug\net6.0\Sum of Digits.deps.json
+C:\Users\Ajay.Pandena\Desktop\GitHub\Sum of Digits\Sum of Digits\bin\Debug\net6.0\Sum of Digits.runtimeconfig.json
+C:\Users\Ajay.Pandena\Desktop\GitHub\Sum of Digits\Sum of Digits\bin\Debug\net6.0\Sum of Digits.dll
+C:\Users\Ajay.Pandena\Desktop\GitHub\Sum of Digits\Sum of Digits\bin\Debug\net6.0\Sum of Digits.pdb
+C:\Users\Ajay.Pandena\Desktop\GitHub\Sum of Digits\Sum of Digits\obj\Debug\net6.0\Sum of Digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajay.Pandena\Desktop\GitHub\Sum of Digits\Sum of Digits\obj\Debug\net6.0\Sum of Digits.AssemblyInfoInputs.cache
+C:\Users\Ajay.Pandena\Desktop\GitHub\Sum of Digits\Sum of Digits\obj\Debug\net6.0\Sum of Digits.AssemblyInfo.cs
+C:\Users\Ajay.Pandena\Desktop\GitHub\Sum of Digits\Sum of Digits\obj\Debug\net6.0\Sum of Digits.csproj.CoreCompileInputs.cache
+C:\Users\Ajay.Pandena\Desktop\GitHub\Sum of Digits\Sum of Digits\obj\Debug\net6.0\Sum of Digits.dll
+C:\Users\Ajay.Pandena\Desktop\GitHub\Sum of Digits\Sum of Digits\obj\Debug\net6.0\refint\Sum of Digits.dll
+C:\Users\Ajay.Pandena\Desktop\GitHub\Sum of Digits\Sum of Digits\obj\Debug\net6.0\Sum of Digits.pdb
+C:\Users\Ajay.Pandena\Desktop\GitHub\Sum of Digits\Sum of Digits\obj\Debug\net6.0\Sum of Digits.genruntimeconfig.cache
+C:\Users\Ajay.Pandena\Desktop\GitHub\Sum of Digits\Sum of Digits\obj\Debug\net6.0\ref\Sum of Digits.dll
