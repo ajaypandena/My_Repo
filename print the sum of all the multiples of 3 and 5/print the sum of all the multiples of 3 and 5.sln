@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "print the sum of all the multiples of 3 and 5", "print the sum of all the multiples of 3 and 5\print the sum of all the multiples of 3 and 5.csproj", "{3D2A30F2-0F6F-4474-90F5-F69A3668514F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D2A30F2-0F6F-4474-90F5-F69A3668514F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D2A30F2-0F6F-4474-90F5-F69A3668514F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D2A30F2-0F6F-4474-90F5-F69A3668514F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D2A30F2-0F6F-4474-90F5-F69A3668514F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06980D0F-6FFB-4543-92AB-7440DBD0BE2C}
+	EndGlobalSection
+EndGlobal

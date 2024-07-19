@@ -1,0 +1,14 @@
+C:\Users\Ajay.Pandena\Desktop\Test_p\entered number even or odd\entered number even or odd\bin\Debug\net6.0\entered number even or odd.exe
+C:\Users\Ajay.Pandena\Desktop\Test_p\entered number even or odd\entered number even or odd\bin\Debug\net6.0\entered number even or odd.deps.json
+C:\Users\Ajay.Pandena\Desktop\Test_p\entered number even or odd\entered number even or odd\bin\Debug\net6.0\entered number even or odd.runtimeconfig.json
+C:\Users\Ajay.Pandena\Desktop\Test_p\entered number even or odd\entered number even or odd\bin\Debug\net6.0\entered number even or odd.dll
+C:\Users\Ajay.Pandena\Desktop\Test_p\entered number even or odd\entered number even or odd\bin\Debug\net6.0\entered number even or odd.pdb
+C:\Users\Ajay.Pandena\Desktop\Test_p\entered number even or odd\entered number even or odd\obj\Debug\net6.0\entered number even or odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajay.Pandena\Desktop\Test_p\entered number even or odd\entered number even or odd\obj\Debug\net6.0\entered number even or odd.AssemblyInfoInputs.cache
+C:\Users\Ajay.Pandena\Desktop\Test_p\entered number even or odd\entered number even or odd\obj\Debug\net6.0\entered number even or odd.AssemblyInfo.cs
+C:\Users\Ajay.Pandena\Desktop\Test_p\entered number even or odd\entered number even or odd\obj\Debug\net6.0\entered number even or odd.csproj.CoreCompileInputs.cache
+C:\Users\Ajay.Pandena\Desktop\Test_p\entered number even or odd\entered number even or odd\obj\Debug\net6.0\entered number even or odd.dll
+C:\Users\Ajay.Pandena\Desktop\Test_p\entered number even or odd\entered number even or odd\obj\Debug\net6.0\refint\entered number even or odd.dll
+C:\Users\Ajay.Pandena\Desktop\Test_p\entered number even or odd\entered number even or odd\obj\Debug\net6.0\entered number even or odd.pdb
+C:\Users\Ajay.Pandena\Desktop\Test_p\entered number even or odd\entered number even or odd\obj\Debug\net6.0\entered number even or odd.genruntimeconfig.cache
+C:\Users\Ajay.Pandena\Desktop\Test_p\entered number even or odd\entered number even or odd\obj\Debug\net6.0\ref\entered number even or odd.dll
